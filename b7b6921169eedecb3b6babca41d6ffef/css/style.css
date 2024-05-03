@@ -508,6 +508,10 @@
     max-width: none;
 }
 
+.backspace-text{
+    text-indent:3em;
+}
+
 /*Override bootstrap*/
 .border-primary, .text-primary {
     border-color: #F4B223 !important;
